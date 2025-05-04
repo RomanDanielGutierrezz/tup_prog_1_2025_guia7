@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisibles por 2 y 3", "Divisibles por 2 y 3\Divisibles por 2 y 3.csproj", "{54E7D9C8-0A9A-416B-82D4-37286D91DDC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54E7D9C8-0A9A-416B-82D4-37286D91DDC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54E7D9C8-0A9A-416B-82D4-37286D91DDC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54E7D9C8-0A9A-416B-82D4-37286D91DDC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54E7D9C8-0A9A-416B-82D4-37286D91DDC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6489AAF-BF8D-4E41-A891-00B1EA7F2714}
+	EndGlobalSection
+EndGlobal

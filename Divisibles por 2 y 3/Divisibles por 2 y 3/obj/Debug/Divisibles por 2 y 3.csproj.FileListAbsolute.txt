@@ -1,0 +1,7 @@
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\bin\Debug\Divisibles por 2 y 3.exe.config
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\bin\Debug\Divisibles por 2 y 3.exe
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\bin\Debug\Divisibles por 2 y 3.pdb
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\obj\Debug\Divisibles por 2 y 3.csproj.AssemblyReference.cache
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\obj\Debug\Divisibles por 2 y 3.csproj.CoreCompileInputs.cache
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\obj\Debug\Divisibles por 2 y 3.exe
+B:\Repositorio VS\Prom\Divisibles por 2 y 3\Divisibles por 2 y 3\obj\Debug\Divisibles por 2 y 3.pdb

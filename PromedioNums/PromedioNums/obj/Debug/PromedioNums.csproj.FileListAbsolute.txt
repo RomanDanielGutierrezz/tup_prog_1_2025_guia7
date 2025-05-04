@@ -1,0 +1,7 @@
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\bin\Debug\PromedioNums.exe.config
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\bin\Debug\PromedioNums.exe
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\bin\Debug\PromedioNums.pdb
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\obj\Debug\PromedioNums.csproj.AssemblyReference.cache
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\obj\Debug\PromedioNums.csproj.CoreCompileInputs.cache
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\obj\Debug\PromedioNums.exe
+B:\Repositorio VS\Prom\PromedioNums\PromedioNums\obj\Debug\PromedioNums.pdb
